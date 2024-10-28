@@ -36,3 +36,11 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<br>
+<br>
+<hr>
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=engelsgermosen&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/engelsgermosen)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=engelsgermosen&theme=material-palenight)](https://github.com/engelsgermosen)
+
