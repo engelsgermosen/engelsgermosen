@@ -4,19 +4,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Development+Student;Competitive+Programmer;Backend+Developer"></a>
 </p>
 
-<img align="right" width=300px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdiOHdibnJ3bXJlM3h1OTQ5bjhldGxlNXB2Zms0d3R6NGhoMHk5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.webp" />
+<img align="right" width=300px alt="programmer" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdiOHdibnJ3bXJlM3h1OTQ5bjhldGxlNXB2Zms0d3R6NGhoMHk5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.webp" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+I am a student at the Technological Institute of the Americas (ITLA), with strong skills in C#, HTML, CSS, and JavaScript. I am driven by a passion for continuous learning, always aiming to create projects that are productive, innovative, and infused with creativity.
+* **I am particularly interested in Full-Stack Web Development and Web Design.**
+- 📚 I’m currently learning React.js, to expand my frontend capabilities.
+- 👯 I’m eager to collaborate on open-source projects to grow and share knowledge with others.<br>
+- ✔ Feel free to ask me anything; I’m happy to help as long as it’s within my expertise! 😉<br>
+- Outside of tech: 🏃‍♂️ I love running, 🍽️ eating out, 🎵 listening to music, and 🌴 exploring outdoor places.
+- 📫 Reach out to me at: <a href="mrengels2648@gmail.com">mrengels2648@gmail.com</a>
 
 
 <hr> <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
